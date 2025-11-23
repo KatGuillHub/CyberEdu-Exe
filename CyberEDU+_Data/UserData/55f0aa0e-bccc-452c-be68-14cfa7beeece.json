@@ -1,0 +1,40 @@
+{
+    "UserId": "55f0aa0e-bccc-452c-be68-14cfa7beeece",
+    "UserName": "and",
+    "Email": "kxs@gmail.com",
+    "PasswordHash": "66744fab415380e9f1859e1c16a1f3057d0d2171250265d78cf8ae242282e606",
+    "UserType": "Joven",
+    "Age": 16,
+    "ProgressList": [
+        {
+            "ModuleID": "Modulo_Phishing",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_CSeguras",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_Privacidad",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_RedesSociales",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_IAResponsable",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_BienestarDigital",
+            "Progress": 0.0
+        }
+    ],
+    "Settings": {
+        "Language": "es",
+        "LargeFonts": false,
+        "Narration": false,
+        "OfflineMode": false
+    }
+}

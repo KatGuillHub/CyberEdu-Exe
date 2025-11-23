@@ -1,0 +1,40 @@
+{
+    "UserId": "8d1c58ba-4e99-4ab6-8a1f-cb974829c8ab",
+    "UserName": "Kam",
+    "Email": "kam@cualquiera.com",
+    "PasswordHash": "a2a315b3f3bd0a48191d0a20ebf8602b35d06d1df1ec11021f4297a564c589ac",
+    "UserType": "AdultoMayor",
+    "Age": 30,
+    "ProgressList": [
+        {
+            "ModuleID": "Modulo_Phishing",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_CSeguras",
+            "Progress": 9.090909004211426
+        },
+        {
+            "ModuleID": "Modulo_Privacidad",
+            "Progress": 6.666666507720947
+        },
+        {
+            "ModuleID": "Modulo_RedesSociales",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_IAResponsable",
+            "Progress": 14.285714149475098
+        },
+        {
+            "ModuleID": "Modulo_BienestarDigital",
+            "Progress": 33.33333206176758
+        }
+    ],
+    "Settings": {
+        "Language": "es",
+        "LargeFonts": false,
+        "Narration": false,
+        "OfflineMode": false
+    }
+}
